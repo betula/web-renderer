@@ -1,0 +1,20 @@
+{
+  "name": "web-renderer",
+  "version": "1.2.0",
+  "description": "Web renderer",
+  "license": "MIT",
+  "repository": "betula/web-renderer",
+  "dependencies": {
+    "jsdom": "9.8.3",
+    "canvas": "1.6.2",
+    "chalk": "1.1.3",
+    "localstorage-memory": "1.0.2",
+    "parse5": "1.5.1",
+    "context": "betula/context#v1.0.0",
+    "chan7": "betula/chan7#v1.1.2",
+    "line7": "betula/line7#v1.0.0",
+    "mongodb": "2.2.24",
+    "mkdirp": "0.5.1"
+  },
+  "engine": "node >= 7.0.0"
+}
